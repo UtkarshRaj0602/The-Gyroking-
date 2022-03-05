@@ -55,3 +55,6 @@ Learning Outcomes:
 3. Dived further into microcontrollers, their fucntioning and their programming.
 4. Hands-on experience with solidworks and its various properties like surfacing, airfoil designing, etc. 
 5. Hands-on experience with ansys and its properties like fluent flow, etc. 
+
+
+My role was do the analysis part of the whole flight and i was also responsible for the design of the flight.
